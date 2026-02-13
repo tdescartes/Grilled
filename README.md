@@ -6,3 +6,4 @@ Trade-off: Requires token refresh if user switches companies (acceptable - rare 
 Decision 2: Denormalize company_id to child tables
 
 Chosen: YES - add to PayrollItem, PTOBala
+adfasdfadsfad
